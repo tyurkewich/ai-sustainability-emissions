@@ -2,7 +2,7 @@
 
 ### Technical resources:
 - Microsoft well architected framework for sustainability: [Project Link](https://learn.microsoft.com/en-us/azure/well-architected/sustainability/sustainability-get-started) 
-- Green Software Foundation 10 principles for development: [Project Link]https://greensoftware.foundation/articles/10-recommendations-for-green-software-development.
+- Green Software Foundation 10 principles for development: https://greensoftware.foundation/articles/10-recommendations-for-green-software-development.
 
 ### Blogs:
 - Microsoft accelerate sustainability blog central: [Project Link](https://www.microsoft.com/en-us/corporate-responsibility/sustainability/progress?). 
