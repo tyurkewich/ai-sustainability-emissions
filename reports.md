@@ -1,3 +1,5 @@
+# Research and Industry Reports 
+
 ### International research reports:
 International Energy Agency report on Energy & AI (2025): https://www.iea.org/reports/energy-and-ai
 
