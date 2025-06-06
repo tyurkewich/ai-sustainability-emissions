@@ -2,6 +2,9 @@
 
 Like any tool, how we use AI will play a major role in its impact on sustainability. Below are industry examples where AI is being used for good, to help people and the planet. 
 
+**Tracking tree health to give actionable advice**: [Link](https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show/gardens/2025/avanade-intelligent-garden).
+- A first-ever intelligent garden was showcased at the RHS Chelsea Flower Show and even won a gold medal. The garden used sensors to track tree health conditions such as growth, water, and soil - and paired this with AI to spot trends and provide actionable advice for tree care. Using a web-based app, visotrs could speak to the trees via genai and learn what care the trees needed or how they were handling weather conditions. Alerts could also be sent out if issues were predicted for the trees such as under-watering. This pilot project served as a great testing ground for research on trees and to further support biodiversity. 
+
 **Scaling conservation efforts by tracking and understanding animal patterns**: [Link](https://www.psu.edu/news/research/story/male-giraffes-are-more-socially-connected-females).  
 - In a groundbreaking study led by researchers from Penn State and Microsoft’s AI for Good Research Lab, artificial intelligence was used to analyze the social networks of over 1,000 endangered Masai giraffes in Tanzania, revealing that male giraffes are more socially connected than females. By applying AI-driven social network analysis to five years of observational data, the team uncovered complex multilevel social structures, with males forming broader but weaker social ties and females maintaining fewer but stronger bonds. This AI-powered insight into giraffe social behavior not only deepens our understanding of their ecology but also supports sustainability efforts by informing more effective conservation strategies tailored to the species’ social dynamics. 
 
