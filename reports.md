@@ -10,6 +10,8 @@
   - Efficiency Gains: AI-driven optimization can reduce data center energy consumption by up to 40%, significantly lowering operational costs and environmental impact.
   - Renewable Energy Integration: By 2030, over 50% of data centers are expected to be powered by renewable energy sources, contributing to a substantial reduction in carbon emissions.
 
+---
+
 ### Researcher & University reports: 
 **Cornell University paper on Green Prompting** (2025): [Link](https://arxiv.org/abs/2503.10666) 
 
