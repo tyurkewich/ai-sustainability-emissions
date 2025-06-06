@@ -4,6 +4,8 @@
 - Microsoft well architected framework for sustainability: [Link](https://learn.microsoft.com/en-us/azure/well-architected/sustainability/sustainability-get-started) 
 - Green Software Foundation 10 principles for development: [Link](https://greensoftware.foundation/articles/10-recommendations-for-green-software-development).
 
+---
+
 ### Blogs:
 - Microsoft accelerate sustainability blog central: [Link](https://www.microsoft.com/en-us/corporate-responsibility/sustainability/progress?). 
 - The Prompt - Can we increase sustainable energy with AI: [Link](https://unlocked.microsoft.com/the-prompt/). 
