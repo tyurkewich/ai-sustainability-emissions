@@ -13,3 +13,8 @@
 - Nature - How much energy will AI really consume? The good, the bad and the unknown: [Link](https://www.nature.com/articles/d41586-025-00616-z).
 - Nature - The Earth alignment principle for artificial intelligence: [Link](https://www.nature.com/articles/s41893-025-01536-6).
 - Nature - Will AI accelerate or delay the race to net zero: [Link](https://www.nature.com/articles/d41586-024-01137-x).
+
+---
+
+### Videos:
+- TedTalk by Dr. Sasha Luccioni - We're doing AI all wrong, here's how to get it right: [Link](https://www.ted.com/talks/sasha_luccioni_we_re_doing_ai_all_wrong_here_s_how_to_get_it_right) 
